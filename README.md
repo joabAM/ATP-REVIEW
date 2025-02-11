@@ -1,2 +1,2 @@
 # ATP-REVIEW
-Software to review the atp records (excel) from Bombardier (now Alstom) ATP.
+Software to review and plot the atp records (excel) from Bombardier (now Alstom) Automatic Train Protection ATP.
